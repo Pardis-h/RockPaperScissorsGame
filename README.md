@@ -10,3 +10,7 @@ Rock, paper, and scissors game is a simple fun game in which both the players ha
 ## ⚙️ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲
 *   Sass
 *   Vanilla Js
+
+## Authors
+
+- [@Pardis-h](https://github.com/Pardis-h)
